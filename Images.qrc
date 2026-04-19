@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wallpaper1.png</file>
+        <file>file_manager.png</file>
+        <file>settings.png</file>
+        <file>terminal.png</file>
+        <file>wallpaper11.png</file>
+        <file>menu_dark.png</file>
+        <file>menu_light.png</file>
+        <file>more.png</file>
+        <file>more_dark.png</file>
+        <file>edit_light.png</file>
+        <file>power_dark.png</file>
+        <file>power_light.png</file>
+        <file>power_off_dark.png</file>
+        <file>power_off_light.png</file>
+        <file>restart_dark.png</file>
+        <file>restart_light.png</file>
+        <file>search_dark.png</file>
+        <file>search_light.png</file>
+        <file>settings_dark.png</file>
+        <file>settings_light.png</file>
+        <file>sleep_light.png</file>
+        <file>all_apps.txt</file>
+        <file>panel_apps.txt</file>
+        <file>FileManager.qml</file>
+        <file>Wallpaper.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+FexC|qrc:/file_manager.png|__filemanager__
+Calculator|qrc:/terminal.png|calc.exe
+Explorer|qrc:/settings.png|explorer.exe
+//hiện tại chỉ đang test app
